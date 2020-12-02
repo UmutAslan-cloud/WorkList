@@ -1,16 +1,17 @@
-let job='Jobloss';
+let job='doctor';
+let name='I am a'
 
 switch (job) {
     case "doctor":
-        console.log("I am a Soldier");
+        console.log(`${name} Doctor`);
         
         break;
 
         case "Police":
-            console.log("I am a Police");
+            console.log(`${name} Police`);
             break;
         case "Soldier":
-            console.log("I am a Soldier");
+            console.log(`${name} Soldier`);
             break;
 
     default:
