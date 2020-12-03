@@ -21,3 +21,4 @@ console.log("Hadi Lan")
        sum=sum+i;
         }
         console.log(sum);
+       

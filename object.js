@@ -18,7 +18,7 @@ let list=[
     {firstName:"Numan",lastName:"Yoruk",age:18},
     {firstName:"Caner",lastName:"Yoruk",age:21}
 ]
-for (let i = 0; i < list.length; i++) {
-    console.log(list[i].firstName);
+for (let i = 0; i in list; i++) {
+    console.log(list[i].firstName,list[i].age);
     
 }

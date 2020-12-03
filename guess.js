@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-   
-</head>
-<body>
-   <script>
-       
+
 let hak=5;
 let tahmin;
 let number=Math.floor((Math.random()*10)+1);
@@ -28,6 +18,3 @@ while (hak>0) {
         console.log("Hakkiniz bitti");
     }
 }
-   </script> 
-</body>
-</html>
